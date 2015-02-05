@@ -18,7 +18,7 @@ And then execute:
 
 ## Usage
 
-```
+```ruby
 Mehibi::Processor.new('すもももももも').terms
   # => %W(すもももももも すもも スモモ もも モモ sumomo momo)
 ```
