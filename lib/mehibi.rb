@@ -1,5 +1,6 @@
-require "mehibi/version"
+require 'mehibi/version'
+require 'mehibi/processor'
+require 'mehibi/line'
 
 module Mehibi
-  # Your code goes here...
 end
